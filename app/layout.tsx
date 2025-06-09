@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "Sistema WhiteKon - Garten",
   description: "Sistema de medição de brancura para arroz - Garten",
-    generator: 'v0.dev'
+    generator: 'Ygor'
 }
 
 export default function RootLayout({

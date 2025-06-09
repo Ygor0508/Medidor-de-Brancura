@@ -9,7 +9,7 @@ export function GartenHeader() {
         <div className="flex items-center gap-2">
           <Link href="/" className="flex items-center gap-2">
             <Image src="/garten-logo.png" alt="Garten Logo" width={40} height={40} className="h-10 w-auto" />
-            <span className="font-bold text-[#00A651] text-xl">TESTE WHITEKON</span>
+            <span className="font-bold text-[#00A651] text-xl">WHITEKON</span>
           </Link>
         </div>
         <div className="flex items-center gap-4">
